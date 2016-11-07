@@ -1,0 +1,32 @@
+[
+  {
+    "content": "lbvu is right",
+    "user_id": 2,
+    "tweet_id": 1,
+    "id": 2
+  },
+  {
+    "content": "新评论",
+    "user_id": 1,
+    "tweet_id": 2,
+    "id": 3
+  },
+  {
+    "content": "吃瓜",
+    "user_id": 1,
+    "tweet_id": 1,
+    "id": 4
+  },
+  {
+    "content": "hello",
+    "user_id": 1,
+    "tweet_id": 2,
+    "id": 5
+  },
+  {
+    "content": "你好",
+    "user_id": 1,
+    "tweet_id": 3,
+    "id": 6
+  }
+]
